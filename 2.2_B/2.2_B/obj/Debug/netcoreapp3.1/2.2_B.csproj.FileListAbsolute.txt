@@ -1,0 +1,11 @@
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\bin\Debug\netcoreapp3.1\2.2_B.exe
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\bin\Debug\netcoreapp3.1\2.2_B.deps.json
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\bin\Debug\netcoreapp3.1\2.2_B.runtimeconfig.json
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\bin\Debug\netcoreapp3.1\2.2_B.runtimeconfig.dev.json
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\bin\Debug\netcoreapp3.1\2.2_B.dll
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\bin\Debug\netcoreapp3.1\2.2_B.pdb
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\obj\Debug\netcoreapp3.1\2.2_B.csprojAssemblyReference.cache
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\obj\Debug\netcoreapp3.1\2.2_B.AssemblyInfoInputs.cache
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\obj\Debug\netcoreapp3.1\2.2_B.AssemblyInfo.cs
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\obj\Debug\netcoreapp3.1\2.2_B.dll
+C:\Users\wanya\OneDrive\Робочий стіл\CS_LAB2\2.2_B\2.2_B\obj\Debug\netcoreapp3.1\2.2_B.pdb
